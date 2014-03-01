@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Bootstrap base Template</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="js/jqMenuClick.js"></script>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container">
+<h1>Menu navigation icon switch on click demo</h1>
+
+<h3 id="aboutMenuMobile"> About <span class="glyphicon glyphicon-chevron-down" ></span></h5>
+
+<h3 id="mainMenuMobile"> Home <span class="glyphicon glyphicon-hand-down" ></span></h5>
+
+<script>
+$(document).ready(function(){	
+	$('#aboutMenuMobile').menuClick({
+        // set values and custom functions
+		menuExpandedClass:"glyphicon glyphicon-chevron-up",
+		menuCollapseClass:"glyphicon glyphicon-chevron-down",
+    });
+	
+	$('#mainMenuMobile').menuClick({
+        // set values and custom functions
+		menuExpandedClass:"glyphicon glyphicon-hand-up",
+		menuCollapseClass:"glyphicon glyphicon-hand-down",
+    });
+});
+</script>	
+</body>
+</html>

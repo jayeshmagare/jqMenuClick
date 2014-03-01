@@ -1,0 +1,37 @@
+{
+  "name": "jqMenuClick",
+  "title": "Jquery plugin for switching data icons attached to navigation's click event",
+  "description": "",
+  "keywords": [
+    "jquery",
+    "dataiconswitch",
+    "iconswitch",
+	"switch",
+	"dataiconswitch"
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Jayesh Magare",
+    "url": "https://github.com/jayeshmagare"
+  },
+  "maintainers": [
+    {
+      "name": "Jayesh Magare",
+      "url": "https://github.com/jayeshmagare"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": "https://github.com/jayeshmagare/jqMenuClick/issues",
+  "homepage": "http://technosouls.in/git-projects/jqMenuClick/index.html",
+  "docs": "https://github.com/jayeshmagare/jqMenuClick/blob/master/README.md",
+  "download": "https://github.com/jayeshmagare/jqMenuClick/archive/master.zip",
+  "demo": "http://technosouls.in/git-projects/jqMenuClick/index.html",
+  "dependencies": {
+    "jquery": ">=1.8"
+  }
+}
