@@ -1,11 +1,11 @@
 /*
-* menuClick: Jquery plugin for switching data icons attached to navigation's click event
+* jqMenuClick: Jquery plugin for switching data icons attached to navigation's click event
 *
 * latest version and complete README available on Github:
-* https://github.com/jayeshmagare/menuClick
+* https://github.com/jayeshmagare/jqMenuClick
 *
 * Copyright 2013 Jayesh Magare (jayesh.magare@gmail.com)
-* Please file issues on Github : https://github.com/jayeshmagare/menuClick/issues
+* Please file issues on Github : https://github.com/jayeshmagare/jqMenuClick/issues
 * Licensed under the MIT license.
 */
 
