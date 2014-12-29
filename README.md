@@ -1,5 +1,5 @@
-Jquery News Ticker
-====================
+Jquery Menu Click Image Swap
+===============================
 ## Demo Link
 	http://technosouls.in/git-projects/jqMenuClick/index.html
 
