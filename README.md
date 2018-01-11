@@ -1,7 +1,7 @@
 Jquery Menu Click Image Swap
 ===============================
 ## Demo Link
-	http://technosouls.in/git-projects/jqMenuClick/index.html
+	http://techansh.com/git-projects/jqMenuClick/index.html
 
 ## Usage
 
